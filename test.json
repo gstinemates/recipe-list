@@ -1,0 +1,34 @@
+[
+    {
+        "_id": "595aade073a93b8278841eae",
+        "title": "Swedish Pancakes",
+        "instructions": "Mix the liquid ingredients then the dry",
+        "__v": 0,
+        "ingredients": [
+            {
+                "name": "Flour",
+                "measurement": "cup",
+                "quantity": "1.25",
+                "_id": "595aade073a93b8278841eb2"
+            },
+            {
+                "name": "Sugar",
+                "measurement": "cup",
+                "quantity": ".25",
+                "_id": "595aade073a93b8278841eb1"
+            },
+            {
+                "name": "Milk",
+                "measurement": "cup",
+                "quantity": "2",
+                "_id": "595aade073a93b8278841eb0"
+            },
+            {
+                "name": "Eggs",
+                "measurement": "n/a",
+                "quantity": "2",
+                "_id": "595aade073a93b8278841eaf"
+            }
+        ]
+    }
+]
